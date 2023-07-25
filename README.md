@@ -29,7 +29,9 @@ Visuals
 <br>
 Project Webpage for Portfolio
 <br>
-[insert here]
+https://eliasjrivera.github.io/Advanced-CSS-Demo/
+<br>
+https://github.com/eliasjrivera/Advanced-CSS-Demo
 <br>
 <br>
 Installation
